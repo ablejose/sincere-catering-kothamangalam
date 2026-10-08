@@ -1,0 +1,36 @@
+{
+  "slug": "sincere-catering-kothamangalam",
+  "name": "Sincere Catering",
+  "shortName": "Sincere",
+  "descriptor": "Catering Services",
+  "address": "Varapetty, Kothamangalam, Keralam 686691",
+  "area": "Kothamangalam",
+  "city": "Kothamangalam",
+  "district": "Ernakulam",
+  "region": "Kerala",
+  "postalCode": "686691",
+  "geo": {
+    "lat": 10.025660799999999,
+    "lng": 76.6355957
+  },
+  "mapsLink": "https://maps.google.com/?cid=12353123650423344586",
+  "phone": "+91 98471 93513",
+  "whatsapp": "919847193513",
+  "rating": 4.4,
+  "reviewCount": 5,
+  "reviews": [
+    {
+      "name": "Jobin James Vadakkumparambil",
+      "rating": 5,
+      "quote": "Good food. Kappa,fish curry, appam, beef roast, chicken roast etc we had in a function. So yummy food. Normaly we do not get this tasty food from catering services. All the best.. keep it up."
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://sincere-catering-kothamangalam.vercel.app"
+}
